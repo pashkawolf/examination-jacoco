@@ -42,7 +42,7 @@ public class Game {
 		resultArray.add(inputValue);
 		
 		return resultArray;
-	}*/
+	}           */
 	
 	public char getGenderFromInputValues(ArrayList<String> arrayOfInputs){
 		char genderCharacter = arrayOfInputs.get(3).charAt(0);	
